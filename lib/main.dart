@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
             fontSize: 24,
             color: Colors.white,
             fontWeight: FontWeight.bold,
+            backgroundColor: Colors.black26,
           )
       ),
       ),
